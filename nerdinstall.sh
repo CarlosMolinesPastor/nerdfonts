@@ -2,51 +2,19 @@
 
 declare -a fonts=(
 	Agave
-	AnonymousPro
-	Arimo
-	AurulentSansMono
-	BigBlueTerminal
-	BitstreamVeraSansMono
 	CascaidaCode
 	CodeNewRoman
-	Cousine
-	DaddyTimeMono
 	DejaVuSansMono
 	DroidSansMono
-	FantasqueSansMono
 	FiraCode
 	FiraMono
-	Go-Mono
-	Gohu
 	Hack
-	Hasklig
-	HeavyData
-	Hermit
-	iA-Writer
-	IBMPlexMono
-	Inconsolate
-	InconsolataGo
-	InconsolataLGC
 	Iosevka
 	JetBrainsMono
-	Lekton
 	LiberationMono
-	Lilex
 	Meslo
-	Monofur
-	Mononoki
 	Monoid
-	MPlus
 	NerdFontsSymbolsOnly
-	Noto
-	OpenDyslexic
-	Overpass
-	ProFont
-	ProggyClean
-	RobotoMono
-	ShareTechMono
-	Terminus
-	Tinos
 	Ubuntu
 	UbuntuMono
 	VictorMono
