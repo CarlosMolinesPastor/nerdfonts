@@ -1,6 +1,26 @@
 # nerdfonts
-Script to install nerdfonts
-You can specify the font you like to install.
+Script to install nerdfonts, only the most popular, here the list:
+
+	Agave
+	CascaidaCode
+	CodeNewRoman
+	DejaVuSansMono
+	DroidSansMono
+	FiraCode
+	FiraMono
+	Hack
+	Iosevka
+	JetBrainsMono
+	LiberationMono
+	Meslo
+	Monoid
+	NerdFontsSymbolsOnly
+	Ubuntu
+	UbuntuMono
+	VictorMono
+
+Commands
+
 ```bash
 mkdir build
 cd build
